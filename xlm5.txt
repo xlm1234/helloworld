@@ -1,3 +1,3 @@
 测试5    R
 
-you are smart 2;
+you are smart 23;
